@@ -1,0 +1,8 @@
+{
+  "servers": [
+    {
+      "name": "MyPrivateServer",
+      "address": "https://anisette-v3-server-mpj8.onrender.com"
+    }
+  ]
+}
